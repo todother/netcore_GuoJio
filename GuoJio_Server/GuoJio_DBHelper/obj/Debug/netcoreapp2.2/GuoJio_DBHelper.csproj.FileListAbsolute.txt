@@ -1,0 +1,9 @@
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\bin\Debug\netcoreapp2.2\GuoJio_DBHelper.deps.json
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\bin\Debug\netcoreapp2.2\GuoJio_DBHelper.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.csprojAssemblyReference.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.csproj.CoreCompileInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.AssemblyInfoInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.AssemblyInfo.cs
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\bin\Debug\netcoreapp2.2\GuoJio_DBHelper.pdb
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DBHelper\obj\Debug\netcoreapp2.2\GuoJio_DBHelper.pdb

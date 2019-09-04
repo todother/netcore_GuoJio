@@ -1,0 +1,14 @@
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_DAL.deps.json
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_DAL.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.csproj.CoreCompileInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.AssemblyInfoInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.AssemblyInfo.cs
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.csprojAssemblyReference.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_DAL.pdb
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_DBHelper.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_Entity.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_DBHelper.pdb
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\bin\Debug\netcoreapp2.2\GuoJio_Entity.pdb
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.csproj.CopyComplete
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_DAL\obj\Debug\netcoreapp2.2\GuoJio_DAL.pdb

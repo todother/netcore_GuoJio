@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.17" />
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GuoJio_DBHelper\GuoJio_DBHelper.csproj" />
+    <ProjectReference Include="..\GuoJio_Entity\GuoJio_Entity.csproj" />
+  </ItemGroup>
+
+</Project>

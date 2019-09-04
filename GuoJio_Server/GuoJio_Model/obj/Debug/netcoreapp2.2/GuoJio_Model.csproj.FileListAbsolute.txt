@@ -1,0 +1,8 @@
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\bin\Debug\netcoreapp2.2\GuoJio_Model.deps.json
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\bin\Debug\netcoreapp2.2\GuoJio_Model.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\bin\Debug\netcoreapp2.2\GuoJio_Model.pdb
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\obj\Debug\netcoreapp2.2\GuoJio_Model.csproj.CoreCompileInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\obj\Debug\netcoreapp2.2\GuoJio_Model.AssemblyInfoInputs.cache
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\obj\Debug\netcoreapp2.2\GuoJio_Model.AssemblyInfo.cs
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\obj\Debug\netcoreapp2.2\GuoJio_Model.dll
+D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Model\obj\Debug\netcoreapp2.2\GuoJio_Model.pdb
