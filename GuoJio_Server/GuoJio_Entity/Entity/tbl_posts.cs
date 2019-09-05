@@ -20,7 +20,7 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public double? latitude {get;set;}
+           public double latitude {get;set;}
 
            /// <summary>
            /// Desc:
@@ -34,7 +34,7 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public double? longitude {get;set;}
+           public double longitude {get;set;}
 
            /// <summary>
            /// Desc:
@@ -105,21 +105,21 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? ifLY {get;set;}
+           public int ifLY {get;set;}
 
            /// <summary>
            /// Desc:
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public long? postsLoved {get;set;}
+           public long postsLoved {get;set;}
 
            /// <summary>
            /// Desc:
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? ifOfficial {get;set;}
+           public int ifOfficial {get;set;}
 
            /// <summary>
            /// Desc:

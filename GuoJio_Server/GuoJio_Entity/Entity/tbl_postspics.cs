@@ -34,7 +34,7 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public decimal? picsRate {get;set;}
+           public decimal picsRate {get;set;}
 
            /// <summary>
            /// Desc:
@@ -56,7 +56,7 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? picIndex {get;set;}
+           public int picIndex {get;set;}
 
     }
 }
