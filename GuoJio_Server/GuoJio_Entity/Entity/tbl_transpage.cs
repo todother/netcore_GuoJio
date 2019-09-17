@@ -1,48 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_transpage")]
-    public partial class tbl_transpage
+    public class tbl_transpage
     {
-           public tbl_transpage(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:False
-           /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
-           public string transId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? transTime {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string openId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string pageName {get;set;}
-
+        public string transId { get; set; }
+        public string pageName { get; set; }
+        public DateTime transTime { get; set; }
+        public string openId { get; set; }
     }
 }

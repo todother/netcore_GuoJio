@@ -14195,11 +14195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\APIController\\APIController.csproj",
+      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\APIController\\APIController.csproj",
       "projectName": "APIController",
-      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\APIController\\APIController.csproj",
+      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\APIController\\APIController.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\APIController\\obj\\",
+      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\APIController\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14218,11 +14218,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj"
             },
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
             }
           }
         }

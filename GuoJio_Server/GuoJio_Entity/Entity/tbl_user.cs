@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Linq;
 using System.Text;
-using SqlSugar;
 
-namespace Sugar.Enties
+namespace CatsDataEntity
 {
     ///<summary>
     ///
     ///</summary>
-    [SugarTable("tbl_user")]
     public partial class tbl_user
     {
            public tbl_user(){
@@ -18,16 +16,8 @@ namespace Sugar.Enties
            /// <summary>
            /// Desc:
            /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string country {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
            /// Nullable:False
            /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
            public string openid {get;set;}
 
            /// <summary>
@@ -35,7 +25,21 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public string gender {get;set;}
+           public string nickName {get;set;}
+
+           /// <summary>
+           /// Desc:
+           /// Default:
+           /// Nullable:True
+           /// </summary>           
+           public string avantarUrl {get;set;}
+
+           /// <summary>
+           /// Desc:
+           /// Default:
+           /// Nullable:True
+           /// </summary>           
+           public string country {get;set;}
 
            /// <summary>
            /// Desc:
@@ -49,21 +53,14 @@ namespace Sugar.Enties
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? ifRobot {get;set;}
+           public string city {get;set;}
 
            /// <summary>
            /// Desc:
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public string referBy {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string language {get;set;}
+           public string gender {get;set;}
 
            /// <summary>
            /// Desc:
@@ -79,61 +76,25 @@ namespace Sugar.Enties
            /// </summary>           
            public DateTime? lastLoginDate {get;set;}
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string selfIntro {get;set;}
+		/// <summary>
+        /// Desc:use this flag to show the status for user,1 means the user is disabled
+        /// Default:
+        /// Nullable:True
+        /// </summary>           
+        public int? userStatus { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? lastRefreshDate {get;set;}
+		public string language { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public long totalScore {get;set;}
+		public DateTime? lastRefreshDate { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string avantarUrl {get;set;}
+		public DateTime? lastRefreshFans { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? lastRefreshFans {get;set;}
+        public string selfIntro { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? userStatus {get;set;}
+        public long totalScore { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string city {get;set;}
+        public int ifRobot { get; set; }
 
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string nickName {get;set;}
-
+        public string referBy { get; set; }
     }
 }

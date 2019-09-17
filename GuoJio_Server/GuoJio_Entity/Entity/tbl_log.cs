@@ -1,41 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_log")]
-    public partial class tbl_log
+    public class tbl_log
     {
-           public tbl_log(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? logTime {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string logContent {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:False
-           /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
-           public string logId {get;set;}
-
+        public string logId { get; set; }
+        public string logContent { get; set; }
+        public DateTime logTime { get; set; }
     }
 }

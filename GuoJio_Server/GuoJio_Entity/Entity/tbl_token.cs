@@ -1,34 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_token")]
-    public partial class tbl_token
+    public class tbl_token
     {
-           public tbl_token(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:False
-           /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
-           public string accessToken {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? generateTime {get;set;}
-
+        public string accessToken { get; set; }
+        public DateTime generateTime { get; set; }
     }
 }

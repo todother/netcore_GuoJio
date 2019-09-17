@@ -1,54 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_commondesc")]
-    public partial class tbl_commondesc
+    public class tbl_commondesc
     {
-           public tbl_commondesc(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? gender {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? len {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string property {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? descId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string description {get;set;}
-
+        public int descId { get; set; }
+        public string property { get; set; }
+        public string description { get; set; }
+        public int len { get; set; }
+        public int gender { get; set; }
     }
 }

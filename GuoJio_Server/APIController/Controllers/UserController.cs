@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CatsPrj.Model;
 using GuoJio_BLL;
-using GuoJio_Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APIController.Controllers

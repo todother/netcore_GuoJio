@@ -1,47 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_solvequestion")]
-    public partial class tbl_solvequestion
+    public class tbl_solveQuestion
     {
-           public tbl_solvequestion(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string solveId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? solveTime {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string openId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? questionId {get;set;}
-
+        public string solveId { get; set; }
+        public string openId { get; set; }
+        public string questionId { get; set; }
+        public DateTime solveTime { get; set; }
     }
 }

@@ -5785,11 +5785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
+      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
       "projectName": "GuoJio_DAL",
-      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
+      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\obj\\",
+      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5808,11 +5808,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj"
             },
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
             }
           }
         }

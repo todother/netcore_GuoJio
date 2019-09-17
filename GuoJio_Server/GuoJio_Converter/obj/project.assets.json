@@ -4743,11 +4743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
+      "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
       "projectName": "GuoJio_Converter",
-      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
+      "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\obj\\",
+      "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4766,11 +4766,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
             },
-            "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
-              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
+            "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
+              "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
             }
           }
         }

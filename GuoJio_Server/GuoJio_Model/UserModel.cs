@@ -1,14 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace GuoJio_Model
+namespace CatsPrj.Model
 {
     public class UserModel
     {
 
-        public string openId { get; set; }
-
+		public string openId { get; set; }
+		      
         /// <summary>
         /// Desc:
         /// Default:
@@ -51,9 +49,9 @@ namespace GuoJio_Model
         /// </summary>           
         public string gender { get; set; }
 
-        public string language { get; set; }
+		public string language { get; set; }
 
-        //public watermark watermark { get; set; }
+		public watermark watermark { get; set; }
 
         public string selfIntro { get; set; }
         public long totalScore { get; set; }

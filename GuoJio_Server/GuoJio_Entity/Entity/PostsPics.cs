@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using SqlSugar;
-
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
     public class PostsPics
     {
-
-        /// <summary>
+		/// <summary>
         /// Desc:
         /// Default:
         /// Nullable:False
@@ -28,7 +23,7 @@ namespace Sugar.Enties
         /// Nullable:True
         /// </summary>           
         public string postsMaker { get; set; }
-        public string openId { get; set; }
+		public string openId { get; set; }
 
         /// <summary>
         /// Desc:
@@ -80,17 +75,17 @@ namespace Sugar.Enties
         /// </summary>           
         public long? postsReported { get; set; }
 
-        public string postsPics { get; set; }
+		public string postsPics { get; set; }
 
-        public string makerName { get; set; }
+		public string makerName { get; set; }
 
-        public int picIndex { get; set; }
+		public int picIndex { get; set; }
 
-        public string picSimpPath { get; set; }
+		public string picSimpPath { get; set; }
 
-        public string picPath { get; set; }
+		public string picPath { get; set; }
 
-        public string makerPhoto { get; set; }
+		public string makerPhoto { get; set; }
 
         public double latitude { get; set; }
         public double longitude { get; set; }
@@ -102,7 +97,6 @@ namespace Sugar.Enties
         public decimal picsRate { get; set; }
         public int ifNewPost { get; set; }
         public int ifUserLoved { get; set; }
-
+        
     }
 }
-

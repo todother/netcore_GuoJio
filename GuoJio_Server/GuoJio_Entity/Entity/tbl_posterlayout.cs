@@ -1,82 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using SqlSugar;
+using System.Threading.Tasks;
 
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_posterlayout")]
-    public partial class tbl_posterlayout
+    public class tbl_posterlayout
     {
-           public tbl_posterlayout(){
-
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterIdx {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterImgPositionX {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterImgPositionY {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string posterPath {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterQRCodePositionX {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterCttPositionX {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterQRCodePositionY {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? posterCttPositionY {get;set;}
-
+        public string posterId { get; set; }
+        public string posterPath { get; set; }
+        public int posterImgPositionX { get; set; }
+        public int posterImgPositionY { get; set; }
+        public int posterCttPositionX { get; set; }
+        public int posterCttPositionY { get; set; }
+        public int posterQRCodePositionX { get; set; }
+        public int posterQRCodePositionY { get; set; }
+        public long posterIdx { get; set; }
     }
 }

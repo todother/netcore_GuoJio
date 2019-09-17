@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace GuoJio_Model
+namespace CatsPrj.Model
 {
     public class PostsModel
     {
-        /// <summary>
+		/// <summary>
         /// Desc:
         /// Default:
         /// Nullable:False
@@ -34,7 +31,7 @@ namespace GuoJio_Model
         /// </summary>           
         public DateTime? postsMakeDate { get; set; }
 
-
+        
 
         /// <summary>
         /// Desc:
@@ -58,18 +55,18 @@ namespace GuoJio_Model
         /// </summary>           
         public long? postsLoved { get; set; }
 
-        public string postsPics { get; set; }
+		public string postsPics { get; set; }
+       
+		public string makerName { get; set; }
+		public string makerID { get; set; }
 
-        public string makerName { get; set; }
-        public string makerID { get; set; }
+		public string picsSimpPath { get; set; }
 
-        public string picsSimpPath { get; set; }
+		public string picsPath { get; set; }
 
-        public string picsPath { get; set; }
+		public string whenPosts { get; set; }
 
-        public string whenPosts { get; set; }
-
-        public string makerPhoto { get; set; }
+		public string makerPhoto { get; set; }
 
         public double latitude { get; set; }
         public double longitude { get; set; }

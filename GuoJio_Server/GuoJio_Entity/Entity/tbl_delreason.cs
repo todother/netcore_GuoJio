@@ -1,62 +1,17 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using SqlSugar;
-
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_delreason")]
-    public partial class tbl_delreason
+    public class tbl_delReason
     {
-           public tbl_delreason(){
+        public tbl_delReason()
+        {
+        }
 
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string delOpenId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public DateTime? delTime {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string delType {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string delUser {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public string delContent {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:False
-           /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
-           public string delId {get;set;}
-
+		public string delId { get; set; }
+		public string delContent { get; set; }
+		public string delType { get; set; }
+		public DateTime delTime { get; set; }
+		public string delUser { get; set; }
+		public string delOpenId { get; set; }
     }
 }

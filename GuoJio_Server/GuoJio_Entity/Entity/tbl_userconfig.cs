@@ -1,62 +1,17 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using SqlSugar;
-
-namespace Sugar.Enties
+namespace Cats.DataEntiry
 {
-    ///<summary>
-    ///
-    ///</summary>
-    [SugarTable("tbl_userconfig")]
-    public partial class tbl_userconfig
+    public class tbl_userConfig
     {
-           public tbl_userconfig(){
+        public tbl_userConfig()
+        {
+        }
+		public string userId { get; set; }
+		public int byTime { get; set; }
+		public int byViewed { get; set; }
+		public int onlyLoved { get; set; }
 
-
-           }
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? onlyLoved {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? onlyVerify {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:False
-           /// </summary>           
-           [SugarColumn(IsPrimaryKey=true)]
-           public string userId {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? videoMuted {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? byTime {get;set;}
-
-           /// <summary>
-           /// Desc:
-           /// Default:
-           /// Nullable:True
-           /// </summary>           
-           public int? byViewed {get;set;}
-
+        public int onlyVerify { get; set; }
+        public int videoMuted { get; set; }
     }
 }

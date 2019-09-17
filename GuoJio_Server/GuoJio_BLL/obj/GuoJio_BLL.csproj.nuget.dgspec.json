@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {}
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {}
   },
   "projects": {
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj",
         "projectName": "GuoJio_BLL",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\GuoJio_BLL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_BLL\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,17 +30,17 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj"
               },
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj"
               },
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
               },
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
         "projectName": "GuoJio_Converter",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\GuoJio_Converter.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Converter\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,11 +95,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
               },
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
         "projectName": "GuoJio_DAL",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\GuoJio_DAL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DAL\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -154,11 +154,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj"
               },
-              "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
-                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
+              "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+                "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
         "projectName": "GuoJio_DBHelper",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -267,14 +267,14 @@
         }
       }
     },
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj",
         "projectName": "GuoJio_Entity",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\GuoJio_Entity.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Entity\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -323,14 +323,14 @@
         }
       }
     },
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj",
         "projectName": "GuoJio_Model",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\GuoJio_Model.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_Model\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {}
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {}
   },
   "projects": {
-    "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
+    "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
+        "projectUniqueName": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
         "projectName": "GuoJio_DBHelper",
-        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
+        "projectPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\GuoJio_DBHelper.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\GuoJio_Server\\GuoJio_DBHelper\\obj\\",
+        "outputPath": "D:\\flutter_proj\\GuoJio_Server\\netcore_GuoJio\\GuoJio_Server\\GuoJio_DBHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

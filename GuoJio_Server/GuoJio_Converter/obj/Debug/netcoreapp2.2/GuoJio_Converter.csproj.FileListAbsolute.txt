@@ -12,3 +12,17 @@ D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreap
 D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.csproj.CopyComplete
 D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.dll
 D:\flutter_proj\GuoJio_Server\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.pdb
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Converter.deps.json
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Converter.dll
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Converter.pdb
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Entity.dll
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Model.dll
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Entity.pdb
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\bin\Debug\netcoreapp2.2\GuoJio_Model.pdb
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.csprojAssemblyReference.cache
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.csproj.CoreCompileInputs.cache
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.AssemblyInfoInputs.cache
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.AssemblyInfo.cs
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.csproj.CopyComplete
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.dll
+D:\flutter_proj\GuoJio_Server\netcore_GuoJio\GuoJio_Server\GuoJio_Converter\obj\Debug\netcoreapp2.2\GuoJio_Converter.pdb
