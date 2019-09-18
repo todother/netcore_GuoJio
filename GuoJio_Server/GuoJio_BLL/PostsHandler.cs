@@ -196,6 +196,18 @@ namespace GuoJio_BLL
             return result[0];
         }
 
+        public List<PicsModel> getAllPicsByPostsId(string postsId)
+        {
+            PostsProvider provider = new PostsProvider();
+            List<tbl_postspics> pics = provider.getAllPicsByPostsId(postsId);
+            List<PicsModel> result = new List<PicsModel>();
+            foreach(var item in pics)
+            {
+                result.Add(PicsConverter.picsEntityToModel(item));
+            }
+            return result;
+        }
+
         public bool ifUserLoved(string postsId, string userId)
         {
             PostsProvider provider = new PostsProvider();

@@ -1059,5 +1059,12 @@ namespace GuoJio_DAL
             tbl_user user = db.Queryable<tbl_user>().Where(o => o.openid == poster).First();
             return user.ifRobot == 1;
         }
+
+        public List<tbl_postspics> getAllPicsByPostsId(string postsId)
+        {
+            SqlSugarClient db = SqlSugarInstance.newInstance();
+            List<tbl_postspics> pics = db.Queryable<tbl_postspics>().Where(o => o.postsID == postsId).OrderBy(o => o.picIndex).ToList();
+            return pics;
+        }
     }
 }

@@ -30,6 +30,7 @@ namespace APIController.Controllers
             PostsModel result = new PostsModel();
             bool ifLoved = false;
             List<RepliesModel> replies = new List<RepliesModel>();
+            List<PicsModel> pics = new List<PicsModel>();
             bool ifFollowed = false;
             string lovedTimes = "0";
             string readCount = string.Empty;
@@ -38,6 +39,8 @@ namespace APIController.Controllers
             string repliesCount = string.Empty;
             string shareCount = string.Empty;
 
+
+            pics = handler.getAllPicsByPostsId(postsId);
             result = handler.getPostsDetail(postsId);
             ifLoved = handler.ifUserLoved(postsId, userId);
             repliesCount = handler.getRepliesCount(postsId);
@@ -49,7 +52,7 @@ namespace APIController.Controllers
             ifLegal = ifLegal && result.postsStatus != 1;
             shareCount = handler.getShareCount(postsId);
             bool ifMuted = new UserHandler().getConfigModel(openId).videoMuted == 1 ? true : false;
-            return Json(new { result = result, ifLoved = ifLoved, lovedTimes = lovedTimes, repliesCount = repliesCount, shareCount = shareCount, replies = replies, ifFollowed = ifFollowed, readCount = readCount, ifLegal = ifLegal, myReply = myReplies, ifMuted = ifMuted });
+            return Json(new { result = result, ifLoved = ifLoved, lovedTimes = lovedTimes, pics=pics,repliesCount = repliesCount, shareCount = shareCount, replies = replies, ifFollowed = ifFollowed, readCount = readCount, ifLegal = ifLegal, myReply = myReplies, ifMuted = ifMuted });
         }
 
     }
